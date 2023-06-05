@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **my experience with python and web development.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://discord.gg/Maxtur#9449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Maxtur#9449" height="30" width="40" /></a>
 </p>
