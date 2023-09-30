@@ -1,17 +1,13 @@
-<h1 align="center">Hi, I'm Max</h1>
-<h3 align="center">A frontend developer from the U.S</h3>
+<h1 align="center">I'm Max</h1>
+<h3 align="center">An aspiring developer from the U.S</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxurdev" alt="maxurdev" /></a> </p>
 
-- 🔭 I’m currently working on [Christmas Countdown Generator](https://github.com/MaxurDev/Christmas-Countdown-WS)
+- 🔭 I’m currently taking an online Harvard CS50 Course through EdX (Intro to CS)
 
-- 🌱 I’m currently learning **Python and Javascript**
+- 🌱 I’m currently learning **GDL and C#**
 
-- 👯 I’m looking to collaborate on [Random Py Sentence Generator](https://github.com/MaxurDev/Random-Py-Sentence-Generator)
-
-- 🤝 I’m looking for help with [Random Py Sentence Generator](https://github.com/MaxurDev/Random-Py-Sentence-Generator)
-
-- 💬 Ask me about **my experience with python and web development.**
+- 💬 Ask me about **my experience with python and web development, and game development.**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
