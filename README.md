@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxurdev" alt="maxurdev" /></a> </p>
 
-- 🔭 I’m currently taking an online Harvard CS50 Course through EdX (Intro to CS)
+- 🔭 I’m currently taking an online Harvard CS50 Course through EdX (Intro to Cybersecurity)
 
-- 🌱 I’m currently learning **GDL and C#**
+- 🌱 I’m currently learning **GDL and React.js**
 
-- 💬 Ask me about **my experience with python and web development, and game development.**
+- 💬 Ask me about **my experience with software and web, and game development.**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
