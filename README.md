@@ -3,9 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxurdev" alt="maxurdev" /></a> </p>
 
-- 🔭 I’m currently taking an online Harvard CS50 Course through EdX (Intro to Cybersecurity)
+- 🔭 I'm currently taking AP Computer Science A
 
-- 🌱 I’m currently learning **GDL, and Java**
+- 🌱 I’m currently learning **GDL, Java, and Python**
+  -  I’ve taken college level Computer Science Principles**
 
 - 💬 Ask me about **my experience with software, web, and game development.**
 
