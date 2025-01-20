@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxurdev" alt="maxurdev" /></a> </p>
 
-- 🔭 I'm currently taking AP Computer Science A
+- 🔭 I'm currently taking Computer Science
 
-- 🌱 I’m currently learning **GDL, Java, and Python**
+- 🌱 I’m currently learning **GDScript, Java, and Python**
   -  I’ve taken college level Computer Science Principles**
 
 - 💬 Ask me about **my experience with software, web, and game development.**
