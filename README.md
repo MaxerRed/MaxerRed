@@ -3,10 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxurdev" alt="maxurdev" /></a> </p>
 
-- 🔭 I'm currently taking Computer Science
+- 🔭 I'm planning to major in Computer Science for my bachelor's degree, and Cybersecurity for my master's degree. 
 
-- 🌱 I’m currently learning **GDScript, Java, and Python**
-  -  I’ve taken college level Computer Science Principles**
+- 🌱 I’m currently learning **GDScript, C++, Java, and Python**
+  
+  -  I've taken three harvard computer science courses.
+  -  CS50's Intro to Technology, Computer Science, and Cybersecurity
 
 - 💬 Ask me about **my experience with software, web, and game development.**
 
