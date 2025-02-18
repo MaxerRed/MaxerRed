@@ -1,6 +1,8 @@
 <h1 align="center">I'm Max</h1>
 <h3 align="center">An aspiring professional developer from the United States.</h3>
 
+<h2>See my website: reds.quest</h2>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxurdev" alt="maxurdev" /></a> </p>
 
 - 🔭 I'm planning to major in Computer Science for my bachelor's degree, and Cybersecurity for my master's degree. 
