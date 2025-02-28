@@ -19,10 +19,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=maxerred&icon=2&color=4)](https://visitcount.itsvg.in)
 
-
 - 🔭 I'm planning to major in Computer Science for my bachelor's degree, and Cybersecurity for my master's degree. 
 
-- 🧠 I’m currently learning **GDScript, C++, Java, and Python**
+- 🧠 I’m currently enhancing my skills in **GDScript, C++, Shell and Java**
   
   -  I've taken three Harvard computer science courses.
   -  CS50's Intro to Technology, Computer Science, and Cybersecurity
