@@ -1,4 +1,4 @@
-<h1 align="center">I'm Red. (MaxerRed)</h1>
+<h1 align="center">(MaxerRed) RedDev</h1>
 <h3 align="center">An aspiring professional developer from the United States.</h3>
 <h3>Owner of FlareFury Games</h3>
 
