@@ -1,7 +1,8 @@
 <h1 align="center">I'm Red. (MaxerRed)</h1>
 <h3 align="center">An aspiring professional developer from the United States.</h3>
+<h3>Owner of FlareFury Games</h3>
 
-<h2>See My Website: </h2>
+<h2>See My Website: flarefury.com</h2>
 <h3 align="left">Contact Me: </h3>
 
 # 💻Tech Stack
